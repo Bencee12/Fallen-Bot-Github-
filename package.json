@@ -1,0 +1,28 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bencee.",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "colours": "^0.6.0-2",
+    "discord-giveaways": "^4.2.1",
+    "discord-player": "^3.0.0-beta.1",
+    "discord.js": "^11.6.4",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.2.6",
+    "fs": "0.0.1-security",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.1",
+    "opusscript": "0.0.7",
+    "superagent": "^5.3.1",
+    "ytdl-core": "^3.2.1",
+    "ytpl": "^1.0.1",
+    "ytsr": "^1.0.4"
+  }
+}
